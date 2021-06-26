@@ -4,7 +4,7 @@ social_link: twitter
 social_username: broccolini
 github_repo: athena
 github_username: broccolini
-theme_color: blue
+theme_color: black
 remote_theme: internet-de-france/swiss
 baseurl: /blogdemo
 defaults:
